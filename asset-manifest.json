@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/md-alexkumar/solar-square-hooks.git/static/css/main.58117526.chunk.css",
+    "main.js": "/md-alexkumar/solar-square-hooks.git/static/js/main.456026d1.chunk.js",
+    "main.js.map": "/md-alexkumar/solar-square-hooks.git/static/js/main.456026d1.chunk.js.map",
+    "runtime-main.js": "/md-alexkumar/solar-square-hooks.git/static/js/runtime-main.789feece.js",
+    "runtime-main.js.map": "/md-alexkumar/solar-square-hooks.git/static/js/runtime-main.789feece.js.map",
+    "static/js/2.a0ab9a5c.chunk.js": "/md-alexkumar/solar-square-hooks.git/static/js/2.a0ab9a5c.chunk.js",
+    "static/js/2.a0ab9a5c.chunk.js.map": "/md-alexkumar/solar-square-hooks.git/static/js/2.a0ab9a5c.chunk.js.map",
+    "index.html": "/md-alexkumar/solar-square-hooks.git/index.html",
+    "precache-manifest.a72c26f7eb6dd9add846ede1600d2779.js": "/md-alexkumar/solar-square-hooks.git/precache-manifest.a72c26f7eb6dd9add846ede1600d2779.js",
+    "service-worker.js": "/md-alexkumar/solar-square-hooks.git/service-worker.js",
+    "static/css/main.58117526.chunk.css.map": "/md-alexkumar/solar-square-hooks.git/static/css/main.58117526.chunk.css.map",
+    "static/js/2.a0ab9a5c.chunk.js.LICENSE.txt": "/md-alexkumar/solar-square-hooks.git/static/js/2.a0ab9a5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789feece.js",
+    "static/js/2.a0ab9a5c.chunk.js",
+    "static/css/main.58117526.chunk.css",
+    "static/js/main.456026d1.chunk.js"
+  ]
+}
